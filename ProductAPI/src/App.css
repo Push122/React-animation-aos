@@ -1,0 +1,9 @@
+.custom-prev, .custom-next {
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .custom-prev:hover, .custom-next:hover {
+    background-color: #1a202c;
+  }
+  
